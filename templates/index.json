@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "PICKLE IS A BANANA NOT A BANANA",
+            "heading": "TOMATO IS A BANANA NOT A BANANA",
             "heading_size": "h0"
           }
         },
@@ -14,7 +14,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop all",
-            "button_link_1": "shopify://collections/all",
+            "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -22,9 +22,12 @@
           }
         }
       },
-      "block_order": ["heading", "button"],
+      "block_order": [
+        "heading",
+        "button"
+      ],
       "settings": {
-        "image_2": "shopify://shop_images/pngimg.com_-_wings_PNG44.png",
+        "image_2": "shopify:\/\/shop_images\/pngimg.com_-_wings_PNG44.png",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "desktop_content_position": "bottom-center",
@@ -71,19 +74,19 @@
         "template--18998618128672__d42de3a7-4aa9-47bd-8786-31799b36d7f0-16841150893c53042d-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/logo.jpg",
+            "image": "shopify:\/\/shop_images\/logo.jpg",
             "title": "HANDS",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "HELLO",
-            "link": "shopify://pages/catering"
+            "link": "shopify:\/\/pages\/catering"
           }
         },
         "template--18998618128672__d42de3a7-4aa9-47bd-8786-31799b36d7f0-16841150893c53042d-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/logo.jpg",
+            "image": "shopify:\/\/shop_images\/logo.jpg",
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -91,9 +94,9 @@
         "template--18998618128672__d42de3a7-4aa9-47bd-8786-31799b36d7f0-16841150893c53042d-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/logo.jpg",
+            "image": "shopify:\/\/shop_images\/logo.jpg",
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
           }
